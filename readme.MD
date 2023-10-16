@@ -1,0 +1,2 @@
+- Book: https://github.com/mrbajaj/books
+- Java certified: https://gelopfalcon.medium.com/how-did-i-get-my-java-se8-certification-b61020d6d311
